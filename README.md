@@ -14,7 +14,7 @@ The King RAGent is an AI-powered research assistant that leverages vector databa
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ragents.git
-   cd ragents
+   cd ragent
    ```
 
 2. Install the required packages:
